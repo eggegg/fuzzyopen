@@ -1,7 +1,7 @@
-[Gedit Plugin]
+[Plugin]
 Loader=python
 Module=fuzzyopen
-IAge=2
+IAge=3
 Name=Fuzzy Open
 Name[zh]=智能開檔
 Description=Opens files by fuzzy search. Ctrl + Shift + O
